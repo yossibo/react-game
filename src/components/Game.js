@@ -1,12 +1,13 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
 
 class Game extends Component {
   render() {
     return (
-      <div  >
-          
+      <div >
+        <div id="game" style="width:800; height:800px; background-color:green; position: relative;">
+
+
+        </div>
       </div>
     );
   }
